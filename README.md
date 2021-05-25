@@ -31,7 +31,5 @@ to use this react app:
 <br>
 `npm install` 
 <br>
-`cd react-intro`
-<br>
 `npm start`
 <br>
